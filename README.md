@@ -72,6 +72,7 @@ This repository is continuously updated with new solutions as part of my daily c
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0198-house-robber](https://github.com/Navaneetha-25/Leetcode/tree/main/0198-house-robber/) | Medium |
+| [0213-house-robber-ii](https://github.com/Navaneetha-25/Leetcode/tree/main/0213-house-robber-ii/) | Medium |
 | [0994-rotting-oranges](https://github.com/Navaneetha-25/Leetcode/tree/main/0994-rotting-oranges/) | Medium |
 | [2906-construct-product-matrix](https://github.com/Navaneetha-25/Leetcode/tree/main/2906-construct-product-matrix/) | Medium |
 ## Matrix
@@ -104,4 +105,5 @@ This repository is continuously updated with new solutions as part of my daily c
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0198-house-robber](https://github.com/Navaneetha-25/Leetcode/tree/main/0198-house-robber/) | Medium |
+| [0213-house-robber-ii](https://github.com/Navaneetha-25/Leetcode/tree/main/0213-house-robber-ii/) | Medium |
 <!---LeetCode Topics End-->
