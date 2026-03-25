@@ -71,13 +71,19 @@ This repository is continuously updated with new solutions as part of my daily c
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0994-rotting-oranges](https://github.com/Navaneetha-25/Leetcode/tree/main/0994-rotting-oranges/) | Medium |
 | [2906-construct-product-matrix](https://github.com/Navaneetha-25/Leetcode/tree/main/2906-construct-product-matrix/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0994-rotting-oranges](https://github.com/Navaneetha-25/Leetcode/tree/main/0994-rotting-oranges/) | Medium |
 | [2906-construct-product-matrix](https://github.com/Navaneetha-25/Leetcode/tree/main/2906-construct-product-matrix/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2906-construct-product-matrix](https://github.com/Navaneetha-25/Leetcode/tree/main/2906-construct-product-matrix/) | Medium |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0994-rotting-oranges](https://github.com/Navaneetha-25/Leetcode/tree/main/0994-rotting-oranges/) | Medium |
 <!---LeetCode Topics End-->
