@@ -76,12 +76,14 @@ This repository is continuously updated with new solutions as part of my daily c
 | [0735-asteroid-collision](https://github.com/Navaneetha-25/Leetcode/tree/main/0735-asteroid-collision/) | Medium |
 | [0994-rotting-oranges](https://github.com/Navaneetha-25/Leetcode/tree/main/0994-rotting-oranges/) | Medium |
 | [2906-construct-product-matrix](https://github.com/Navaneetha-25/Leetcode/tree/main/2906-construct-product-matrix/) | Medium |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Navaneetha-25/Leetcode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Navaneetha-25/Leetcode/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0994-rotting-oranges](https://github.com/Navaneetha-25/Leetcode/tree/main/0994-rotting-oranges/) | Medium |
 | [2906-construct-product-matrix](https://github.com/Navaneetha-25/Leetcode/tree/main/2906-construct-product-matrix/) | Medium |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Navaneetha-25/Leetcode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Navaneetha-25/Leetcode/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -126,4 +128,9 @@ This repository is continuously updated with new solutions as part of my daily c
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0735-asteroid-collision](https://github.com/Navaneetha-25/Leetcode/tree/main/0735-asteroid-collision/) | Medium |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Navaneetha-25/Leetcode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Navaneetha-25/Leetcode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 <!---LeetCode Topics End-->
