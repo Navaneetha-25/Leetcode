@@ -97,6 +97,7 @@ This repository is continuously updated with new solutions as part of my daily c
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/Navaneetha-25/Leetcode/tree/main/0207-course-schedule/) | Medium |
+| [0301-remove-invalid-parentheses](https://github.com/Navaneetha-25/Leetcode/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0994-rotting-oranges](https://github.com/Navaneetha-25/Leetcode/tree/main/0994-rotting-oranges/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -140,6 +141,7 @@ This repository is continuously updated with new solutions as part of my daily c
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/Navaneetha-25/Leetcode/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [2573-find-the-string-with-lcp](https://github.com/Navaneetha-25/Leetcode/tree/main/2573-find-the-string-with-lcp/) | Hard |
 ## Greedy
 | Problem Name | Difficulty |
@@ -165,4 +167,8 @@ This repository is continuously updated with new solutions as part of my daily c
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/Navaneetha-25/Leetcode/tree/main/0239-sliding-window-maximum/) | Hard |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/Navaneetha-25/Leetcode/tree/main/0301-remove-invalid-parentheses/) | Hard |
 <!---LeetCode Topics End-->
