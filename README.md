@@ -75,6 +75,7 @@ This repository is continuously updated with new solutions as part of my daily c
 | [0213-house-robber-ii](https://github.com/Navaneetha-25/Leetcode/tree/main/0213-house-robber-ii/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/Navaneetha-25/Leetcode/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Navaneetha-25/Leetcode/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
+| [0695-max-area-of-island](https://github.com/Navaneetha-25/Leetcode/tree/main/0695-max-area-of-island/) | Medium |
 | [0735-asteroid-collision](https://github.com/Navaneetha-25/Leetcode/tree/main/0735-asteroid-collision/) | Medium |
 | [0994-rotting-oranges](https://github.com/Navaneetha-25/Leetcode/tree/main/0994-rotting-oranges/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/Navaneetha-25/Leetcode/tree/main/2573-find-the-string-with-lcp/) | Hard |
@@ -85,6 +86,7 @@ This repository is continuously updated with new solutions as part of my daily c
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Navaneetha-25/Leetcode/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
+| [0695-max-area-of-island](https://github.com/Navaneetha-25/Leetcode/tree/main/0695-max-area-of-island/) | Medium |
 | [0994-rotting-oranges](https://github.com/Navaneetha-25/Leetcode/tree/main/0994-rotting-oranges/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/Navaneetha-25/Leetcode/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [2906-construct-product-matrix](https://github.com/Navaneetha-25/Leetcode/tree/main/2906-construct-product-matrix/) | Medium |
@@ -101,12 +103,14 @@ This repository is continuously updated with new solutions as part of my daily c
 | [0207-course-schedule](https://github.com/Navaneetha-25/Leetcode/tree/main/0207-course-schedule/) | Medium |
 | [0301-remove-invalid-parentheses](https://github.com/Navaneetha-25/Leetcode/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Navaneetha-25/Leetcode/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
+| [0695-max-area-of-island](https://github.com/Navaneetha-25/Leetcode/tree/main/0695-max-area-of-island/) | Medium |
 | [0994-rotting-oranges](https://github.com/Navaneetha-25/Leetcode/tree/main/0994-rotting-oranges/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/Navaneetha-25/Leetcode/tree/main/0207-course-schedule/) | Medium |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Navaneetha-25/Leetcode/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
+| [0695-max-area-of-island](https://github.com/Navaneetha-25/Leetcode/tree/main/0695-max-area-of-island/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -157,6 +161,7 @@ This repository is continuously updated with new solutions as part of my daily c
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0695-max-area-of-island](https://github.com/Navaneetha-25/Leetcode/tree/main/0695-max-area-of-island/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/Navaneetha-25/Leetcode/tree/main/2573-find-the-string-with-lcp/) | Hard |
 ## Queue
 | Problem Name | Difficulty |
