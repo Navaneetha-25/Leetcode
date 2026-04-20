@@ -78,6 +78,7 @@ This repository is continuously updated with new solutions as part of my daily c
 | [0695-max-area-of-island](https://github.com/Navaneetha-25/Leetcode/tree/main/0695-max-area-of-island/) | Medium |
 | [0735-asteroid-collision](https://github.com/Navaneetha-25/Leetcode/tree/main/0735-asteroid-collision/) | Medium |
 | [0994-rotting-oranges](https://github.com/Navaneetha-25/Leetcode/tree/main/0994-rotting-oranges/) | Medium |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/Navaneetha-25/Leetcode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Navaneetha-25/Leetcode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2573-find-the-string-with-lcp](https://github.com/Navaneetha-25/Leetcode/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [2906-construct-product-matrix](https://github.com/Navaneetha-25/Leetcode/tree/main/2906-construct-product-matrix/) | Medium |
@@ -200,4 +201,12 @@ This repository is continuously updated with new solutions as part of my daily c
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Navaneetha-25/Leetcode/tree/main/1581-customer-who-visited-but-did-not-make-any-transactions/) | Easy |
 | [1683-invalid-tweets](https://github.com/Navaneetha-25/Leetcode/tree/main/1683-invalid-tweets/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/Navaneetha-25/Leetcode/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/Navaneetha-25/Leetcode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/Navaneetha-25/Leetcode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 <!---LeetCode Topics End-->
