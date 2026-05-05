@@ -78,6 +78,7 @@ This repository is continuously updated with new solutions as part of my daily c
 | [0695-max-area-of-island](https://github.com/Navaneetha-25/Leetcode/tree/main/0695-max-area-of-island/) | Medium |
 | [0735-asteroid-collision](https://github.com/Navaneetha-25/Leetcode/tree/main/0735-asteroid-collision/) | Medium |
 | [0994-rotting-oranges](https://github.com/Navaneetha-25/Leetcode/tree/main/0994-rotting-oranges/) | Medium |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Navaneetha-25/Leetcode/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Navaneetha-25/Leetcode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Navaneetha-25/Leetcode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2573-find-the-string-with-lcp](https://github.com/Navaneetha-25/Leetcode/tree/main/2573-find-the-string-with-lcp/) | Hard |
@@ -98,6 +99,7 @@ This repository is continuously updated with new solutions as part of my daily c
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Navaneetha-25/Leetcode/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [2906-construct-product-matrix](https://github.com/Navaneetha-25/Leetcode/tree/main/2906-construct-product-matrix/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Navaneetha-25/Leetcode/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 ## Breadth-First Search
@@ -178,6 +180,7 @@ This repository is continuously updated with new solutions as part of my daily c
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/Navaneetha-25/Leetcode/tree/main/0239-sliding-window-maximum/) | Hard |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Navaneetha-25/Leetcode/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
