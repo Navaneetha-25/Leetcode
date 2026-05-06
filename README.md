@@ -200,6 +200,7 @@ This repository is continuously updated with new solutions as part of my daily c
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0178-rank-scores](https://github.com/Navaneetha-25/Leetcode/tree/main/0178-rank-scores/) | Medium |
 | [0584-find-customer-referee](https://github.com/Navaneetha-25/Leetcode/tree/main/0584-find-customer-referee/) | Easy |
 | [0595-big-countries](https://github.com/Navaneetha-25/Leetcode/tree/main/0595-big-countries/) | Easy |
 | [1068-product-sales-analysis-i](https://github.com/Navaneetha-25/Leetcode/tree/main/1068-product-sales-analysis-i/) | Easy |
