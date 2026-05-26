@@ -213,6 +213,7 @@ This repository is continuously updated with new solutions as part of my daily c
 | [1193-monthly-transactions-i](https://github.com/Navaneetha-25/Leetcode/tree/main/1193-monthly-transactions-i/) | Medium |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Navaneetha-25/Leetcode/tree/main/1378-replace-employee-id-with-the-unique-identifier/) | Easy |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Navaneetha-25/Leetcode/tree/main/1581-customer-who-visited-but-did-not-make-any-transactions/) | Easy |
+| [1661-average-time-of-process-per-machine](https://github.com/Navaneetha-25/Leetcode/tree/main/1661-average-time-of-process-per-machine/) | Easy |
 | [1683-invalid-tweets](https://github.com/Navaneetha-25/Leetcode/tree/main/1683-invalid-tweets/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/Navaneetha-25/Leetcode/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 ## Two Pointers
