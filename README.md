@@ -138,6 +138,7 @@ This repository is continuously updated with new solutions as part of my daily c
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/Navaneetha-25/Leetcode/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Navaneetha-25/Leetcode/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Navaneetha-25/Leetcode/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 ## Enumeration
@@ -164,6 +165,7 @@ This repository is continuously updated with new solutions as part of my daily c
 | ------- | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/Navaneetha-25/Leetcode/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [2573-find-the-string-with-lcp](https://github.com/Navaneetha-25/Leetcode/tree/main/2573-find-the-string-with-lcp/) | Hard |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/Navaneetha-25/Leetcode/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
