@@ -138,12 +138,14 @@ This repository is continuously updated with new solutions as part of my daily c
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Navaneetha-25/Leetcode/tree/main/2309-greatest-english-letter-in-upper-and-lower-case/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Navaneetha-25/Leetcode/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Navaneetha-25/Leetcode/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Navaneetha-25/Leetcode/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Navaneetha-25/Leetcode/tree/main/2309-greatest-english-letter-in-upper-and-lower-case/) | Easy |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Navaneetha-25/Leetcode/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 ## Stack
 | Problem Name | Difficulty |
@@ -164,6 +166,7 @@ This repository is continuously updated with new solutions as part of my daily c
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/Navaneetha-25/Leetcode/tree/main/0301-remove-invalid-parentheses/) | Hard |
+| [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Navaneetha-25/Leetcode/tree/main/2309-greatest-english-letter-in-upper-and-lower-case/) | Easy |
 | [2573-find-the-string-with-lcp](https://github.com/Navaneetha-25/Leetcode/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Navaneetha-25/Leetcode/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 ## Greedy
