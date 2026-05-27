@@ -71,6 +71,7 @@ This repository is continuously updated with new solutions as part of my daily c
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Navaneetha-25/Leetcode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0198-house-robber](https://github.com/Navaneetha-25/Leetcode/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/Navaneetha-25/Leetcode/tree/main/0213-house-robber-ii/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/Navaneetha-25/Leetcode/tree/main/0239-sliding-window-maximum/) | Hard |
@@ -131,6 +132,7 @@ This repository is continuously updated with new solutions as part of my daily c
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Navaneetha-25/Leetcode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0198-house-robber](https://github.com/Navaneetha-25/Leetcode/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/Navaneetha-25/Leetcode/tree/main/0213-house-robber-ii/) | Medium |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Navaneetha-25/Leetcode/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
@@ -172,6 +174,7 @@ This repository is continuously updated with new solutions as part of my daily c
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Navaneetha-25/Leetcode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Navaneetha-25/Leetcode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2573-find-the-string-with-lcp](https://github.com/Navaneetha-25/Leetcode/tree/main/2573-find-the-string-with-lcp/) | Hard |
 ## Union-Find
