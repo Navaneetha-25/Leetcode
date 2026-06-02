@@ -93,6 +93,7 @@ This repository is continuously updated with new solutions as part of my daily c
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Navaneetha-25/Leetcode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Navaneetha-25/Leetcode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Navaneetha-25/Leetcode/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Navaneetha-25/Leetcode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Navaneetha-25/Leetcode/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
@@ -188,6 +189,7 @@ This repository is continuously updated with new solutions as part of my daily c
 | [2126-destroying-asteroids](https://github.com/Navaneetha-25/Leetcode/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Navaneetha-25/Leetcode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2573-find-the-string-with-lcp](https://github.com/Navaneetha-25/Leetcode/tree/main/2573-find-the-string-with-lcp/) | Hard |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Navaneetha-25/Leetcode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -239,11 +241,13 @@ This repository is continuously updated with new solutions as part of my daily c
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/Navaneetha-25/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Navaneetha-25/Leetcode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Navaneetha-25/Leetcode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/Navaneetha-25/Leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Navaneetha-25/Leetcode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Navaneetha-25/Leetcode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -251,4 +255,5 @@ This repository is continuously updated with new solutions as part of my daily c
 | [0217-contains-duplicate](https://github.com/Navaneetha-25/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [2126-destroying-asteroids](https://github.com/Navaneetha-25/Leetcode/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Navaneetha-25/Leetcode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Navaneetha-25/Leetcode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 <!---LeetCode Topics End-->
