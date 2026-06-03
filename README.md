@@ -71,6 +71,7 @@ This repository is continuously updated with new solutions as part of my daily c
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0027-remove-element](https://github.com/Navaneetha-25/Leetcode/tree/main/0027-remove-element/) | Easy |
 | [0088-merge-sorted-array](https://github.com/Navaneetha-25/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Navaneetha-25/Leetcode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0198-house-robber](https://github.com/Navaneetha-25/Leetcode/tree/main/0198-house-robber/) | Medium |
@@ -242,6 +243,7 @@ This repository is continuously updated with new solutions as part of my daily c
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0027-remove-element](https://github.com/Navaneetha-25/Leetcode/tree/main/0027-remove-element/) | Easy |
 | [0088-merge-sorted-array](https://github.com/Navaneetha-25/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Navaneetha-25/Leetcode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Navaneetha-25/Leetcode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
