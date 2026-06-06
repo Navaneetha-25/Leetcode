@@ -93,6 +93,7 @@ This repository is continuously updated with new solutions as part of my daily c
 | [2126-destroying-asteroids](https://github.com/Navaneetha-25/Leetcode/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Navaneetha-25/Leetcode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2573-find-the-string-with-lcp](https://github.com/Navaneetha-25/Leetcode/tree/main/2573-find-the-string-with-lcp/) | Hard |
+| [2574-left-and-right-sum-differences](https://github.com/Navaneetha-25/Leetcode/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2906-construct-product-matrix](https://github.com/Navaneetha-25/Leetcode/tree/main/2906-construct-product-matrix/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Navaneetha-25/Leetcode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Navaneetha-25/Leetcode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
@@ -115,6 +116,7 @@ This repository is continuously updated with new solutions as part of my daily c
 | ------- | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/Navaneetha-25/Leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Navaneetha-25/Leetcode/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
+| [2574-left-and-right-sum-differences](https://github.com/Navaneetha-25/Leetcode/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2906-construct-product-matrix](https://github.com/Navaneetha-25/Leetcode/tree/main/2906-construct-product-matrix/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Navaneetha-25/Leetcode/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 ## Breadth-First Search
