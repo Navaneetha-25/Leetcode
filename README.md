@@ -193,6 +193,7 @@ This repository is continuously updated with new solutions as part of my daily c
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1344-angle-between-hands-of-a-clock](https://github.com/Navaneetha-25/Leetcode/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Navaneetha-25/Leetcode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Navaneetha-25/Leetcode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Navaneetha-25/Leetcode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
