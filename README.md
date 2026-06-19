@@ -88,6 +88,7 @@ This repository is continuously updated with new solutions as part of my daily c
 | [0994-rotting-oranges](https://github.com/Navaneetha-25/Leetcode/tree/main/0994-rotting-oranges/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Navaneetha-25/Leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Navaneetha-25/Leetcode/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
+| [1732-find-the-highest-altitude](https://github.com/Navaneetha-25/Leetcode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Navaneetha-25/Leetcode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Navaneetha-25/Leetcode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2126-destroying-asteroids](https://github.com/Navaneetha-25/Leetcode/tree/main/2126-destroying-asteroids/) | Medium |
@@ -121,6 +122,7 @@ This repository is continuously updated with new solutions as part of my daily c
 | ------- | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/Navaneetha-25/Leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Navaneetha-25/Leetcode/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
+| [1732-find-the-highest-altitude](https://github.com/Navaneetha-25/Leetcode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/Navaneetha-25/Leetcode/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2906-construct-product-matrix](https://github.com/Navaneetha-25/Leetcode/tree/main/2906-construct-product-matrix/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Navaneetha-25/Leetcode/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
