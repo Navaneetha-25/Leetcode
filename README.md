@@ -73,6 +73,7 @@ This repository is continuously updated with new solutions as part of my daily c
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Navaneetha-25/Leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/Navaneetha-25/Leetcode/tree/main/0027-remove-element/) | Easy |
+| [0046-permutations](https://github.com/Navaneetha-25/Leetcode/tree/main/0046-permutations/) | Medium |
 | [0075-sort-colors](https://github.com/Navaneetha-25/Leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Navaneetha-25/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Navaneetha-25/Leetcode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
@@ -251,6 +252,7 @@ This repository is continuously updated with new solutions as part of my daily c
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0046-permutations](https://github.com/Navaneetha-25/Leetcode/tree/main/0046-permutations/) | Medium |
 | [0301-remove-invalid-parentheses](https://github.com/Navaneetha-25/Leetcode/tree/main/0301-remove-invalid-parentheses/) | Hard |
 ## Memoization
 | Problem Name | Difficulty |
