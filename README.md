@@ -167,6 +167,7 @@ This repository is continuously updated with new solutions as part of my daily c
 | [0217-contains-duplicate](https://github.com/Navaneetha-25/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/Navaneetha-25/Leetcode/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Navaneetha-25/Leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [1189-maximum-number-of-balloons](https://github.com/Navaneetha-25/Leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Navaneetha-25/Leetcode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Navaneetha-25/Leetcode/tree/main/2309-greatest-english-letter-in-upper-and-lower-case/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Navaneetha-25/Leetcode/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
@@ -208,6 +209,7 @@ This repository is continuously updated with new solutions as part of my daily c
 | ------- | ------- |
 | [0006-zigzag-conversion](https://github.com/Navaneetha-25/Leetcode/tree/main/0006-zigzag-conversion/) | Medium |
 | [0301-remove-invalid-parentheses](https://github.com/Navaneetha-25/Leetcode/tree/main/0301-remove-invalid-parentheses/) | Hard |
+| [1189-maximum-number-of-balloons](https://github.com/Navaneetha-25/Leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Navaneetha-25/Leetcode/tree/main/2309-greatest-english-letter-in-upper-and-lower-case/) | Easy |
 | [2573-find-the-string-with-lcp](https://github.com/Navaneetha-25/Leetcode/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Navaneetha-25/Leetcode/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
@@ -320,4 +322,8 @@ This repository is continuously updated with new solutions as part of my daily c
 | ------- | ------- |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Navaneetha-25/Leetcode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Navaneetha-25/Leetcode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1189-maximum-number-of-balloons](https://github.com/Navaneetha-25/Leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 <!---LeetCode Topics End-->
