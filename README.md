@@ -166,6 +166,7 @@ This repository is continuously updated with new solutions as part of my daily c
 | ------- | ------- |
 | [0217-contains-duplicate](https://github.com/Navaneetha-25/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/Navaneetha-25/Leetcode/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [0299-bulls-and-cows](https://github.com/Navaneetha-25/Leetcode/tree/main/0299-bulls-and-cows/) | Medium |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Navaneetha-25/Leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/Navaneetha-25/Leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Navaneetha-25/Leetcode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
@@ -208,6 +209,7 @@ This repository is continuously updated with new solutions as part of my daily c
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0006-zigzag-conversion](https://github.com/Navaneetha-25/Leetcode/tree/main/0006-zigzag-conversion/) | Medium |
+| [0299-bulls-and-cows](https://github.com/Navaneetha-25/Leetcode/tree/main/0299-bulls-and-cows/) | Medium |
 | [0301-remove-invalid-parentheses](https://github.com/Navaneetha-25/Leetcode/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [1189-maximum-number-of-balloons](https://github.com/Navaneetha-25/Leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Navaneetha-25/Leetcode/tree/main/2309-greatest-english-letter-in-upper-and-lower-case/) | Easy |
@@ -325,5 +327,6 @@ This repository is continuously updated with new solutions as part of my daily c
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0299-bulls-and-cows](https://github.com/Navaneetha-25/Leetcode/tree/main/0299-bulls-and-cows/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/Navaneetha-25/Leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 <!---LeetCode Topics End-->
