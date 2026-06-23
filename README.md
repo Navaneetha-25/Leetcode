@@ -127,6 +127,7 @@ This repository is continuously updated with new solutions as part of my daily c
 | [2574-left-and-right-sum-differences](https://github.com/Navaneetha-25/Leetcode/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2906-construct-product-matrix](https://github.com/Navaneetha-25/Leetcode/tree/main/2906-construct-product-matrix/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Navaneetha-25/Leetcode/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
+| [3699-number-of-zigzag-arrays-i](https://github.com/Navaneetha-25/Leetcode/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -159,6 +160,7 @@ This repository is continuously updated with new solutions as part of my daily c
 | [0213-house-robber-ii](https://github.com/Navaneetha-25/Leetcode/tree/main/0213-house-robber-ii/) | Medium |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Navaneetha-25/Leetcode/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [2573-find-the-string-with-lcp](https://github.com/Navaneetha-25/Leetcode/tree/main/2573-find-the-string-with-lcp/) | Hard |
+| [3699-number-of-zigzag-arrays-i](https://github.com/Navaneetha-25/Leetcode/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Navaneetha-25/Leetcode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/Navaneetha-25/Leetcode/tree/main/3753-total-waviness-of-numbers-in-range-ii/) | Hard |
 ## Hash Table
