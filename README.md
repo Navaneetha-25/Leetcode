@@ -90,6 +90,7 @@ This repository is continuously updated with new solutions as part of my daily c
 | [1004-max-consecutive-ones-iii](https://github.com/Navaneetha-25/Leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Navaneetha-25/Leetcode/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/Navaneetha-25/Leetcode/tree/main/1732-find-the-highest-altitude/) | Easy |
+| [1833-maximum-ice-cream-bars](https://github.com/Navaneetha-25/Leetcode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Navaneetha-25/Leetcode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Navaneetha-25/Leetcode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2126-destroying-asteroids](https://github.com/Navaneetha-25/Leetcode/tree/main/2126-destroying-asteroids/) | Medium |
@@ -224,6 +225,7 @@ This repository is continuously updated with new solutions as part of my daily c
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Navaneetha-25/Leetcode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
+| [1833-maximum-ice-cream-bars](https://github.com/Navaneetha-25/Leetcode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Navaneetha-25/Leetcode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2126-destroying-asteroids](https://github.com/Navaneetha-25/Leetcode/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Navaneetha-25/Leetcode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
@@ -309,6 +311,7 @@ This repository is continuously updated with new solutions as part of my daily c
 | [0088-merge-sorted-array](https://github.com/Navaneetha-25/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0217-contains-duplicate](https://github.com/Navaneetha-25/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Navaneetha-25/Leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [1833-maximum-ice-cream-bars](https://github.com/Navaneetha-25/Leetcode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2126-destroying-asteroids](https://github.com/Navaneetha-25/Leetcode/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Navaneetha-25/Leetcode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Navaneetha-25/Leetcode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
@@ -331,4 +334,8 @@ This repository is continuously updated with new solutions as part of my daily c
 | ------- | ------- |
 | [0299-bulls-and-cows](https://github.com/Navaneetha-25/Leetcode/tree/main/0299-bulls-and-cows/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/Navaneetha-25/Leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/Navaneetha-25/Leetcode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 <!---LeetCode Topics End-->
