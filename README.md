@@ -103,6 +103,7 @@ This repository is continuously updated with new solutions as part of my daily c
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Navaneetha-25/Leetcode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [2906-construct-product-matrix](https://github.com/Navaneetha-25/Leetcode/tree/main/2906-construct-product-matrix/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Navaneetha-25/Leetcode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Navaneetha-25/Leetcode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Navaneetha-25/Leetcode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Navaneetha-25/Leetcode/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Navaneetha-25/Leetcode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
@@ -121,6 +122,7 @@ This repository is continuously updated with new solutions as part of my daily c
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Navaneetha-25/Leetcode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [2906-construct-product-matrix](https://github.com/Navaneetha-25/Leetcode/tree/main/2906-construct-product-matrix/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Navaneetha-25/Leetcode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Navaneetha-25/Leetcode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Navaneetha-25/Leetcode/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -142,6 +144,7 @@ This repository is continuously updated with new solutions as part of my daily c
 | [0695-max-area-of-island](https://github.com/Navaneetha-25/Leetcode/tree/main/0695-max-area-of-island/) | Medium |
 | [0994-rotting-oranges](https://github.com/Navaneetha-25/Leetcode/tree/main/0994-rotting-oranges/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Navaneetha-25/Leetcode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Navaneetha-25/Leetcode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -153,6 +156,7 @@ This repository is continuously updated with new solutions as part of my daily c
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/Navaneetha-25/Leetcode/tree/main/0207-course-schedule/) | Medium |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Navaneetha-25/Leetcode/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Navaneetha-25/Leetcode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 ## Topological Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -263,6 +267,7 @@ This repository is continuously updated with new solutions as part of my daily c
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/Navaneetha-25/Leetcode/tree/main/0239-sliding-window-maximum/) | Hard |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Navaneetha-25/Leetcode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Navaneetha-25/Leetcode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 ## Monotonic Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -362,4 +367,8 @@ This repository is continuously updated with new solutions as part of my daily c
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Navaneetha-25/Leetcode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
+## Shortest Path
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Navaneetha-25/Leetcode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 <!---LeetCode Topics End-->
