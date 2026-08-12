@@ -184,6 +184,7 @@ This repository is continuously updated with new solutions as part of my daily c
 | [0219-contains-duplicate-ii](https://github.com/Navaneetha-25/Leetcode/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0299-bulls-and-cows](https://github.com/Navaneetha-25/Leetcode/tree/main/0299-bulls-and-cows/) | Medium |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Navaneetha-25/Leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Navaneetha-25/Leetcode/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/Navaneetha-25/Leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Navaneetha-25/Leetcode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Navaneetha-25/Leetcode/tree/main/2309-greatest-english-letter-in-upper-and-lower-case/) | Easy |
@@ -232,6 +233,7 @@ This repository is continuously updated with new solutions as part of my daily c
 | [0006-zigzag-conversion](https://github.com/Navaneetha-25/Leetcode/tree/main/0006-zigzag-conversion/) | Medium |
 | [0299-bulls-and-cows](https://github.com/Navaneetha-25/Leetcode/tree/main/0299-bulls-and-cows/) | Medium |
 | [0301-remove-invalid-parentheses](https://github.com/Navaneetha-25/Leetcode/tree/main/0301-remove-invalid-parentheses/) | Hard |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Navaneetha-25/Leetcode/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/Navaneetha-25/Leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Navaneetha-25/Leetcode/tree/main/2309-greatest-english-letter-in-upper-and-lower-case/) | Easy |
 | [2573-find-the-string-with-lcp](https://github.com/Navaneetha-25/Leetcode/tree/main/2573-find-the-string-with-lcp/) | Hard |
@@ -267,6 +269,7 @@ This repository is continuously updated with new solutions as part of my daily c
 | ------- | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Navaneetha-25/Leetcode/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0239-sliding-window-maximum](https://github.com/Navaneetha-25/Leetcode/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Navaneetha-25/Leetcode/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Navaneetha-25/Leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Navaneetha-25/Leetcode/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Navaneetha-25/Leetcode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
@@ -367,6 +370,7 @@ This repository is continuously updated with new solutions as part of my daily c
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Navaneetha-25/Leetcode/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Navaneetha-25/Leetcode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Segment Tree
 | Problem Name | Difficulty |
