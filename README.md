@@ -131,6 +131,7 @@ This repository is continuously updated with new solutions as part of my daily c
 | ------- | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/Navaneetha-25/Leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Navaneetha-25/Leetcode/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Navaneetha-25/Leetcode/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/Navaneetha-25/Leetcode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/Navaneetha-25/Leetcode/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2906-construct-product-matrix](https://github.com/Navaneetha-25/Leetcode/tree/main/2906-construct-product-matrix/) | Medium |
@@ -172,6 +173,7 @@ This repository is continuously updated with new solutions as part of my daily c
 | [0198-house-robber](https://github.com/Navaneetha-25/Leetcode/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/Navaneetha-25/Leetcode/tree/main/0213-house-robber-ii/) | Medium |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Navaneetha-25/Leetcode/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Navaneetha-25/Leetcode/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/Navaneetha-25/Leetcode/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Navaneetha-25/Leetcode/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Navaneetha-25/Leetcode/tree/main/3700-number-of-zigzag-arrays-ii/) | Hard |
@@ -218,6 +220,7 @@ This repository is continuously updated with new solutions as part of my daily c
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Navaneetha-25/Leetcode/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Navaneetha-25/Leetcode/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Navaneetha-25/Leetcode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Navaneetha-25/Leetcode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Navaneetha-25/Leetcode/tree/main/3700-number-of-zigzag-arrays-ii/) | Hard |
@@ -384,4 +387,8 @@ This repository is continuously updated with new solutions as part of my daily c
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Navaneetha-25/Leetcode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Navaneetha-25/Leetcode/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 <!---LeetCode Topics End-->
