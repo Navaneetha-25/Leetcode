@@ -240,6 +240,7 @@ This repository is continuously updated with new solutions as part of my daily c
 | [1189-maximum-number-of-balloons](https://github.com/Navaneetha-25/Leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Navaneetha-25/Leetcode/tree/main/2309-greatest-english-letter-in-upper-and-lower-case/) | Easy |
 | [2573-find-the-string-with-lcp](https://github.com/Navaneetha-25/Leetcode/tree/main/2573-find-the-string-with-lcp/) | Hard |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Navaneetha-25/Leetcode/tree/main/2914-minimum-number-of-changes-to-make-binary-string-beautiful/) | Medium |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Navaneetha-25/Leetcode/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3612-process-string-with-special-operations-i](https://github.com/Navaneetha-25/Leetcode/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3614-process-string-with-special-operations-ii](https://github.com/Navaneetha-25/Leetcode/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
