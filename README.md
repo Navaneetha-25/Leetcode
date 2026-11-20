@@ -105,6 +105,7 @@ This repository is continuously updated with new solutions as part of my daily c
 | [2906-construct-product-matrix](https://github.com/Navaneetha-25/Leetcode/tree/main/2906-construct-product-matrix/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Navaneetha-25/Leetcode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Navaneetha-25/Leetcode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Navaneetha-25/Leetcode/tree/main/3041-maximize-consecutive-elements-in-an-array-after-modification/) | Hard |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Navaneetha-25/Leetcode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Navaneetha-25/Leetcode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Navaneetha-25/Leetcode/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
@@ -175,6 +176,7 @@ This repository is continuously updated with new solutions as part of my daily c
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Navaneetha-25/Leetcode/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Navaneetha-25/Leetcode/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/Navaneetha-25/Leetcode/tree/main/2573-find-the-string-with-lcp/) | Hard |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Navaneetha-25/Leetcode/tree/main/3041-maximize-consecutive-elements-in-an-array-after-modification/) | Hard |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Navaneetha-25/Leetcode/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Navaneetha-25/Leetcode/tree/main/3700-number-of-zigzag-arrays-ii/) | Hard |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Navaneetha-25/Leetcode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
@@ -346,6 +348,7 @@ This repository is continuously updated with new solutions as part of my daily c
 | [1833-maximum-ice-cream-bars](https://github.com/Navaneetha-25/Leetcode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2126-destroying-asteroids](https://github.com/Navaneetha-25/Leetcode/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Navaneetha-25/Leetcode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Navaneetha-25/Leetcode/tree/main/3041-maximize-consecutive-elements-in-an-array-after-modification/) | Hard |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Navaneetha-25/Leetcode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Navaneetha-25/Leetcode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 ## Tree
